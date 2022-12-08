@@ -1,2 +1,0 @@
-# firstproject
-study github
